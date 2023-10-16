@@ -1,0 +1,13 @@
+.task {
+    border: 2px solid yellowgreen;
+    border-radius: 3px;
+    padding: 2px;
+    text-align: left;
+    color:black;
+}
+
+.task-container {
+    width: 60%;
+    display: inline-flex;
+    margin: 2px;
+}
